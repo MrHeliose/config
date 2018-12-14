@@ -1,0 +1,7 @@
+*utf8: always
+
+Ctrl Shift <Key>C: copy-selection(CLIPBOARD)
+Ctrl Shift <Key>V: insert-selection(CLIPBOARD)
+
+urxvt*transparent: true
+urxvt*shading: 40
